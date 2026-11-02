@@ -143,8 +143,7 @@ These follow from the findings above. Because the data is synthetic, treat them 
 ## Files in this repository
 
 ```
-.
-├── README.md
+├── [Readme](README.md)
 ├── sql/
 │   ├── create_hospital_db.sql            Original source script
 │   ├── hospital_db_clean_sqlite.sql      Cleaned database (run in an empty SQLite file)
@@ -156,7 +155,7 @@ These follow from the findings above. Because the data is synthetic, treat them 
 │   ├── FactEncounters.csv
 │   └── FactProcedures.csv
 ├── powerbi/
-│   ├── hospital_record.pbix           Add your report file here
+│   ├── hospital_record.pbix           
 └── docs/
     └── Dashboard_images/                           Dashboard screenshots
 ```
