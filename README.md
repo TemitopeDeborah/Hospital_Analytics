@@ -24,7 +24,7 @@ This project takes a raw hospital database script, audits it for quality problem
 
 The data covers **27,891 hospital encounters** for **973 patients** between 2011 and early 2022, with **47,701 procedures** and about **$101.5M in claims**. The report shows how much care is delivered, what it costs, who pays for it, and who the patients are.
 
-**Live case study:** [add your Netlify link here]
+**[Live case study:]** [view link](https://poetic-crisp-8e278a.netlify.app/#findings)
 
 ---
 
@@ -172,4 +172,4 @@ Things I learned along the way:
 - A caveats box on the report is part of the analysis, not an afterthought.
 
 
-**Author:** Temitope Otesanya | [Linkedin](https://www.linkedin.com/in/temitope-otesanya-085838244) | [Portfolio] | [Email](otesanyatemitope006@gmail.com)
+**Author:** Temitope Otesanya | [Linkedin](https://www.linkedin.com/in/temitope-otesanya-085838244) | [Portfolio]((https://poetic-crisp-8e278a.netlify.app/#findings)) | [Email](otesanyatemitope006@gmail.com)
